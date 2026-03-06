@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ElectricityBillingApp</string>
+    <string name="submit">Submit</string>
+    <string name="current_meter_reading">Current Meter Reading</string>
+    <string name="service_number">Service Number</string>
+    <string name="save">Save</string>
+    <string name="reading_510">Reading: 510</string>
+    <string name="cost_3800">Cost: $3800</string>
+    <string name="date">Date</string>
+</resources>

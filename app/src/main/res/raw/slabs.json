@@ -1,0 +1,5 @@
+[
+  { "minUnit": 1, "maxUnit": 100, "rate": 5 },
+  { "minUnit": 101, "maxUnit": 500, "rate": 8 },
+  { "minUnit": 501, "maxUnit": null, "rate": 10 }
+]
